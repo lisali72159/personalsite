@@ -129,6 +129,12 @@ input, select, textarea {
 
 		}
 
+	.headshot > img {
+		border: none;
+		border-radius: 50%;
+		width: 100px;
+		justify-content: center;
+	}
 	a {
 		-moz-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
